@@ -52,5 +52,4 @@ int main(){
         ans = X % N ; // rewmaining money id  0 
         cout<<ans ;  // print 0
     }
-    else cout<<"Not valid";
 }
