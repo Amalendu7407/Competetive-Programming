@@ -27,7 +27,7 @@ using namespace std ;
 int main(){
     int w ; 
     cin >> w ; 
-    if(w >= 2 && w % 2 == 0) cout<<"Yes";
+    if(w > 2 && w % 2 == 0) cout<<"Yes";
     else cout<< "NO";
     
 }
